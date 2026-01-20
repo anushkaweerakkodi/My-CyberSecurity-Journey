@@ -19,6 +19,14 @@ I am a certified Cybersecurity enthusiast with a strong foundation in Networking
 * **Defensive Security:** Implementing Identity Lifecycle Management and Securing Cloud/Mobile/IoT environments
 * **Virtualization:** Implementing and managing Virtual Computing Environments
 
+🧪 Practical Hands-on Labs (HTB)
+Currently sharpening my offensive security skills on Hack The Box.
+
+Starting Point Track:
+Tier 0: 55% Completed 🛡️
+Tier 1: 20% Completed 🛡️
+Focus: Learning the fundamentals of penetration testing and machine exploitation.
+
 ## 📁 Projects & CTF Write-ups
 *(Coming Soon: Detailed walkthroughs of TryHackMe and HackTheBox machines)*
 
