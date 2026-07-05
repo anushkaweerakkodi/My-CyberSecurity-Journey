@@ -1,11 +1,6 @@
 # 🛡️ Cybersecurity Portfolio | Anushka Weerakkodi
 
-I am a certified Cybersecurity enthusiast with a strong foundation in Networking, Ethical Hacking, and Cyber Defense. I am currently focused on practical Penetration Testing and solving CTF (Capture The Flag) challenges to enhance my technical skills.
-
-## 🎓 Professional Certifications
-
-🎖️ International Professional Memberships
-ISC2 Candidate – Part of the global community of cybersecurity professionals, currently preparing for the Certified in Cybersecurity (CC) certification.
+Detail-oriented and hands-on IT & Cybersecurity enthusiast currently pursuing an NVQ Level 4 in Network Technician, with a solid foundation in network infrastructure and defensive security. Certified as a Cisco Junior Cybersecurity Analyst, I possess practical experience in secure router/switch configuration, VLAN segmentation, and vulnerability scanning. Passionate about continuous learning, I actively sharpen my skills through Hack The Box and practical exploitation labs (Metasploit). Seeking an entry-level opportunity as a SOC Analyst, Junior Network Technician, or IT Support Associate where I can apply my technical skills to secure and optimize enterprise environments.
 
 ### 🌐 Cisco Networking Academy
 
